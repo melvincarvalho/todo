@@ -1,7 +1,7 @@
 todo
 ====
 
-a lightweight clientside todo list app using localStorage - HTML5 + JS
+a lightweight clientside todo list app using localStorage - HTML5 + JS - demo at http://webr3.org/apps/play/todo/
 
 - double enter when editing to create a new item
 - star for urgent, exclamation for important, auto score and color coding based on priority
