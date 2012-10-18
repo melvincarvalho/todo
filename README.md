@@ -11,3 +11,5 @@ a lightweight clientside todo list app using localStorage - HTML5 + JS - demo at
 - create new tags at the top left, add them to items with the tag button drop down, remove a tag from an item by clicking it.
 - focus button to give focus to the item you're currently doing.
 - don't worry about saving, it's all done automatically every time a state changes
+
+To clear and start again, just do localStorage.removeItem('todo') in the console of your browser.
